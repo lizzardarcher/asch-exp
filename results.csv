@@ -1,0 +1,13 @@
+firstName,lastName,age,gender,level,answer
+John,Doe,19,Male,Primary education,incorrect
+John,Doe,19,Male,Primary education,incorrect
+John,Doe,19,Male,Primary education,correct
+John,Doe,19,Male,Primary education,incorrect,2021-02-10 20:36:18.698879
+John,Doe,19,Male,Primary education,correct,2021-02-10
+John,Doe,19,Male,Primary education,incorrect,2021-02-10
+John,Doe,19,Male,Primary education,incorrect,2021-02-10
+John,Doe,19,Male,Primary education,incorrect,2021-02-21
+John,Doe,19,Male,Primary education,correct,2021-02-21
+John,Doe,19,Male,Primary education,correct,2021-02-21
+John,Doe,19,Male,Primary education,correct,2021-02-21
+John,Doe,19,Male,Primary education,incorrect,2021-02-21
